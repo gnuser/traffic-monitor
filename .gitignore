@@ -1,0 +1,5 @@
+*.app/
+.DS_Store
+*.zip
+*.dSYM/
+.swift-module-cache/
